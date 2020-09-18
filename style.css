@@ -18,6 +18,7 @@ html {
 	width: 100vw;
 	margin-top: 4.3vh;
 	mix-blend-mode: exclusion;
+	position: fixed;
 }
 
 .logo,
@@ -49,4 +50,18 @@ html {
 .heading{
 	width: 94vw;
 	margin-left: 3vw;
+	margin-top: 18vh;
+}
+
+
+.category1{
+	display: block;
+}
+
+.title1{
+	height: 12vh;
+}
+
+.img1{
+	width: 30.4vw;
 }
