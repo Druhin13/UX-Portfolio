@@ -16,18 +16,37 @@ html {
 .top {
 	display: flex;
 	width: 100vw;
+	margin-top: 4.3vh;
+	mix-blend-mode: exclusion;
 }
 
-.logo, .top-p2{
+.logo,
+.top-p2 {
 	position: absolute;
 }
 
-.logo{
+.logo {
 	left: 0;
 	margin-left: 3vw;
+	height: 3.3vh;
+}
+
+.about,
+.resume {
+	height: 3.3vh;
+
+}
+
+.about{
+	margin-right: 4.6vw;
 }
 
 .top-p2 {
 	right: 0;
 	margin-right: 3vw;
+}
+
+.heading{
+	width: 94vw;
+	margin-left: 3vw;
 }
